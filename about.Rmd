@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+author: "Steve Morin"
+date: "July 9, 2017"
+output: html_document
+---
+
+# MTCARS Regression Application Documentation
+
+
+## Overview
+
+The MTCARS prediction web application predicts Miles Per Gallon (MPG) based on user inputs. The user can select Weight, Cylinders, or Displacement as the regressor variable. The application will redraw the scatter plot and regression line based on the variable selected by the user.
+
+## Using MTCARS Regression Application
+
+Using the input panel sidebar, you can select the variable you want to use as the regressor for Miles Per Gallon (MPG). The plot will be redrawn immediately when the selection is changed. This application only allows prediction by a single variable at a time (not multi-variable).
+
+The following selections are available:
+
+- Weight
+- Cylinders
+- Displacement
+
+
+
+
+
+
